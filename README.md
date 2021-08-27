@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there! I'm Bruno Frachia <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47opl5ulgrrbd0g5n1hggemhthkn1eer53fd9clato&rid=giphy.gif" width="60">
+<p>
+  <em>CTO at <a href="https://houlak.com/">Houlak</a><em/><br/>
+  <em>Android & iOS Developer<em/><br/>
+  <em>Photography enthusiast <em/><img src="https://media.giphy.com/media/fV8czd6oXVGQkBnXO2/source.gif" width="20">
+</p>
 
+[![Linkedin: Bruno Frachia](https://img.shields.io/badge/-Bruno_Frachia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-frachia/)](https://www.linkedin.com/in/bruno-frachia/)
+[![GitHub Bruno](https://img.shields.io/github/followers/brunofrachia?label=follow&style=social)](https://github.com/brunofrachia)
 <!--
 **brunofrachia/brunofrachia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
